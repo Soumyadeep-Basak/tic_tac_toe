@@ -17,7 +17,7 @@ app.config.from_object('config.Config')
 mysql = MySQL(app)
 app.secret_key = app.config['SECRET_KEY']
 socketio = SocketIO(app, cors_allowed_origins="*")
-admin_email='basaksoumyadeep04@gmail.com'
+admin_email='barryallen4790@gmail.com'
 games = {}
 
 # Login-required decorator
