@@ -98,7 +98,7 @@ The platform aims to deliver a secure, competitive, and community-driven gaming 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-multiplayer.git
+git clone https://github.com/Soumyadeep-Basak/tic-tac-toe-multiplayer.git
 ```
 2.Install dependencies
 ```bash
@@ -115,7 +115,9 @@ pip install -r requirements.txt
   python app.py
   ```
 7.To access the Application
-Go to http://localhost:5000 in your browser.
-
+In your browser, go to
+```bash
+http://localhost:5000 .
+```
 
 
