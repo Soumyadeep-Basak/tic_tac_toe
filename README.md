@@ -1,5 +1,8 @@
 # Online Multiplayer Tic-Tac-Toe Game
 
+Report Link:[here](https://github.com/Soumyadeep-Basak/tic_tac_toe/blob/main/report.pdf)
+Youtube Video Link:[here](https://youtu.be/F7_T46TTfdU)
+
 ## Project Aim 🎯
 The aim of this project is to develop an interactive, online Tic-Tac-Toe game that offers a robust multiplayer experience with real-time gameplay, leaderboard rankings, user authentication, and comprehensive administration capabilities. The project combines Flask, Socket.IO, and MySQL to deliver a scalable, web-based solution for engaging and competitive gameplay with live updates.
 
